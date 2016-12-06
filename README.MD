@@ -14,7 +14,9 @@ https://api.slack.com/custom-integrations
 4. Choose a channel
 
 5. You should be given a webhook URL:
-    Example: https://hooks.slack.com/services/TWELKFJSLFP/LKJRL23KJLK/KDGJALKJ3LKJLASJDFLKJA
+
+    Example:
+    https://hooks.slack.com/services/TWELKFJSLFP/LKJRL23KJLK/KDGJALKJ3LKJLASJDFLKJA
 
 
 
@@ -22,9 +24,9 @@ https://api.slack.com/custom-integrations
 Setup on github:
 
 1. clone this repo:
-    $ git clone git@github.com:leon-do/slackJS.git
+    <code> $ git clone git@github.com:leon-do/slackJS.git </code>
 
-2. cd slackjs
+2. <code> $ cd slackjs </code>
 
 3. open the folder slackjs
 
@@ -42,6 +44,6 @@ Run in terminal:
 
 1. (make sure node is installed)
 
-2. $ node app.js
+2. <code> $ node app.js </code>
 
 3. you should see a message in your slack channel
