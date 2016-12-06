@@ -1,7 +1,7 @@
-<h1> This repo uses slackjs and cron to automatically send a message at a certain time. </h1>
+<h1> This repo uses slack-node and cronJob to automatically send a message at a certain time. </h1>
 
 Example:
-You can set it to send a message "Hello World", at 3AM (because everyone is avaliable at 3am)
+Slack the message "hello world", at 3AM (because everyone is avaliable at 3am)
 
 <h2>Setup on Slack: </h2>
 1. Create an app on slack: https://api.slack.com/custom-integrations
