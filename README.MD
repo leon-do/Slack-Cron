@@ -3,7 +3,7 @@
 Example:
 You can set it to send a message "Hello World", at 3AM (because everyone is avaliable at 3am)
 
-Setup on Slack:
+<h2>Setup on Slack: </h2>
 1. Create an app on slack:
 
 https://api.slack.com/custom-integrations
@@ -21,7 +21,7 @@ https://api.slack.com/custom-integrations
 
 
 
-Setup on github:
+<h2> Setup on github:</h2>
 
 1. clone this repo:
     <code> $ git clone git@github.com:leon-do/slackJS.git </code>
@@ -40,7 +40,7 @@ Setup on github:
 
 
 
-Run in terminal:
+<h2> Run in terminal:</h2>
 
 1. (make sure node is installed)
 
