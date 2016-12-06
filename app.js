@@ -12,7 +12,7 @@ new CronJob('* * * * * *', function() {
     slack.setWebhook(webhookUri);
 
     slack.webhook({
-      channel: "MY_CHANNEL_HERE",
+      channel: "#general",
       username: "slackJS",
       text: "hello world",
     }, function(err, response) {
