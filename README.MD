@@ -4,9 +4,8 @@ Example:
 You can set it to send a message "Hello World", at 3AM (because everyone is avaliable at 3am)
 
 <h2>Setup on Slack: </h2>
-1. Create an app on slack:
+1. Create an app on slack: https://api.slack.com/custom-integrations
 
-https://api.slack.com/custom-integrations
 2. Click set up an incoming webhook
 
 3. Add configuration
