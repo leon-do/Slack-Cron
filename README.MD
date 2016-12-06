@@ -32,7 +32,8 @@ Setup on github:
 
 5. replace SLACK_URL_HERE with the webhook URL
 
-    Example: https://hooks.slack.com/services/TWELKFJSLFP/LKJRL23KJLK/KDGJALKJ3LKJLASJDFLKJA
+    Example:
+    https://hooks.slack.com/services/TWELKFJSLFP/LKJRL23KJLK/KDGJALKJ3LKJLASJDFLKJA
 
 
 
