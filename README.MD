@@ -1,4 +1,4 @@
-This repo uses slackjs and cron to automatically send a message at a certain time.
+<h1> This repo uses slackjs and cron to automatically send a message at a certain time. </h1>
 
 Example:
 You can set it to send a message "Hello World", at 3AM (because everyone is avaliable at 3am)
