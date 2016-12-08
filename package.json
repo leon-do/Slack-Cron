@@ -1,15 +1,24 @@
 {
-  "name": "nodeslack",
+  "name": "slackcron",
   "version": "1.0.0",
+  "description": "<h1> This repo uses slack-node and cronJob to automatically send a message at a certain time. </h1>",
   "main": "app.js",
   "dependencies": {
+    "cron": "^1.1.1",
     "slack-node": "^0.1.8"
   },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leon-do/Slack-Cron.git"
+  },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "bugs": {
+    "url": "https://github.com/leon-do/Slack-Cron/issues"
+  },
+  "homepage": "https://github.com/leon-do/Slack-Cron#readme"
 }
